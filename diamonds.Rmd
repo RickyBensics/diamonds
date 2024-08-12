@@ -6,3 +6,4 @@ ggplot(diamonds, aes(x = carat, y = price, color = cut)) +
        x = "Carat",
        y = "Price (USD)",
        color = "Cut Quality")
+
